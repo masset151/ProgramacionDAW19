@@ -133,7 +133,7 @@
 
 # Andrés
 
-- Titulo:
+- Titulo: Gestion de Abonados
 - Descripcion: Aplicacion para gestioanr un sistema de abonados a Semana Santa
 
 - Tablas de BBDD:
@@ -145,7 +145,7 @@
 
 - Ficheros: Imprimir las zonas permitidas para un abonado
 
-- GitHub: []()
+- GitHub: https://github.com/masset151/Gestion_de_Abonados
 
 # Oscar
 
